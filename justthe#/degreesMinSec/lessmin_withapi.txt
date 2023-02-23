@@ -1,0 +1,3 @@
+Top 3 word address match: freshen.overlook.clock
+WGS84 Coordinates: 48.858007, 2.354331
+Nearest Place: Paris

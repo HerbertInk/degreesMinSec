@@ -1,0 +1,37 @@
+[Running] /usr/bin/python "c:\Users\lenovo\Desktop\degreesMinSec\what3words.py"
+The system cannot find the path specified.
+
+[Done] exited with code=1 in 10.811 seconds
+
+[Running] python -u "c:\Users\lenovo\Desktop\degreesMinSec\threeWords.py"
+InvalidKey Authentication failed; invalid API key
+
+[Done] exited with code=0 in 8.509 seconds
+
+[Running] python -u "c:\Users\lenovo\Desktop\degreesMinSec\threeWords.py"
+Top 3 word address match: freshen.overlook.clock
+WGS84 Coordinates: 48.858007, 2.354331
+Nearest Place: Paris
+
+[Done] exited with code=0 in 15.052 seconds
+
+[Running] python -u "c:\Users\lenovo\Desktop\degreesMinSec\threeWords.py"
+Top 3 word address match: freshen.overlook.clock
+WGS84 Coordinates: 48.858007, 2.354331
+Nearest Place: Paris
+
+[Done] exited with code=0 in 15.45 seconds
+
+[Running] python -u "c:\Users\lenovo\Desktop\degreesMinSec\threeWords.py"
+Top 3 word address match: brilliantly.continual.catch
+WGS84 Coordinates: 48.25376, 6.201551
+Nearest Place: Mirecourt, Vosges
+
+[Done] exited with code=0 in 6.471 seconds
+
+[Running] python -u "c:\Users\lenovo\Desktop\degreesMinSec\threeWords.py"
+Top 3 word address match: brilliant.convinces.catch
+WGS84 Coordinates: -0.617737, 30.656135
+Nearest Place: Mbarara, Western Region
+
+[Done] exited with code=0 in 5.727 seconds
